@@ -1,0 +1,28 @@
+body{
+    background-image:url("images/nen.jpg");
+}
+.contairner{
+    width:1024px;
+
+}
+
+header{
+    height:118px ;
+    background-image:linear-gradient(red, rgb(201, 46, 196)) ;
+    
+}
+
+nav{
+    height:40px ;
+    
+}
+
+main{
+    height:400px ;
+    
+}
+
+footer{
+    height:100px ;
+
+}
